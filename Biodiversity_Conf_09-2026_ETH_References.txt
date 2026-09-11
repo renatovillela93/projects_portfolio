@@ -1,0 +1,5 @@
+Adams, B. A., Whipple, K. X., Forte, A. M., Heimsath, A. M., & Hodges, K. V. (2020). Climate controls on erosion in tectonically active landscapes. Science Advances, 6(42), eaaz3166. doi:10.1126/sciadv.aaz3166.
+Godard, V. (2022). TCNtools: Terrestrial Cosmogenic Nuclides Calculations (Version 0.1.0) [R package].
+Stone, J. O. (2000). Air pressure and cosmogenic isotope production. Journal of Geophysical Research: Solid Earth, 105(B10), 23753–23759. doi:10.1029/2000JB900181.
+Val , P., Peifer, D., Ribas, C. (2026, in review). Rock diversity drives river network reorganization with implications for biotic diversification in continent interiors. 
+
